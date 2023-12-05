@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrQvest
-- 👀 I’m interested in making games and learning how to code
+- 👀 I’m interested in Linux. I use Arch btw
 - 🌱 I’m currently learning in college
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
